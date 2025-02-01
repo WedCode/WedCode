@@ -37,11 +37,13 @@ Me apasiona la **innovación tecnológica**, la optimización del rendimiento y 
 > Desarrollo integral de una tienda online con **autenticación JWT, pasarela de pagos segura y gestión avanzada de productos y clientes**.
 
 ### 📊 Plataforma Web (.NET Core)
-📌 [http://devwed.tryasp.net/](http://devwed.tryasp.net/)  
+📌 Despliegue en: [http://devwed.tryasp.net/](http://devwed.tryasp.net/)  
+📌 Código fuente: [GitHub - net-marketbert](https://github.com/WedCode/net-marketbert)
 > Aplicación desarrollada con **ASP.NET Core MVC, Identity y patrón de repositorio**, enfocada en gestión eficiente de usuarios y datos empresariales.
 
 ### 🔄 Proyecto de API RESTful con ASP.NET Core Web API usando JWT y .NET Identity
-📌 [http://api-marketbert.tryasp.net/swagger/index.html](http://api-marketbert.tryasp.net/swagger/index.html)  
+📌 Despliegue en: [http://api-marketbert.tryasp.net/swagger/index.html](http://api-marketbert.tryasp.net/swagger/index.html)  
+📌 Código fuente: [GitHub - net-api-marketbert](https://github.com/WedCode/net-api-marketbert)
 > API escalable con **ASP.NET Core Web API** que implementa autenticación con **JWT y .NET Identity**.
 
 ---
